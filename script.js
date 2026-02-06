@@ -25,7 +25,7 @@ function loadLetters(){
     const card=document.createElement('div');
     card.className='card';
     const unlock = new Date(l[0] + "T00:00:00+05:30");
-    const now=new Date();
+    const now = new Date(new Date().toLocaleString("en-US", { timeZone: "Asia/Kolkata" }));
     if(now>=unlock){
       card.innerHTML=`<h3>${l[1]}</h3>`;
       card.onclick=()=>openLetter(l[2]);
