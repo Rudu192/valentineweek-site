@@ -24,7 +24,7 @@ function loadLetters(){
   letters.forEach(l=>{
     const card=document.createElement('div');
     card.className='card';
-    const unlock=new Date(l[0]);
+    const unlock = new Date(l[0] + "T00:00:00+05:30");
     const now=new Date();
     if(now>=unlock){
       card.innerHTML=`<h3>${l[1]}</h3>`;
