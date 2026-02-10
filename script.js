@@ -12,7 +12,7 @@ const letters=[
 ["2026-02-08","Propose Day 💍","Hiiiii babyyyy 💍 I choose you foreverrrr...<br><br>I LOVE YOU SO MUCH YOU MEAN THE WORLD TO ME MY CHASMISH - From Rudu"],
 ["2026-02-09","Chocolate Day 🍫","Helloooo sweetieee 🍫 You are sweeter than chocolates mwwwwwaaahhhhhh You are my madhuuu...<br><br>I LOVE YOU SO MUCH YOU MEAN THE WORLD TO ME MY CHASMISH - From Rudu"],
 ["2026-02-10","Teddy Day 🧸","Huggiesss🧸 my cutu sonaaiii you are myyy choto teddyyy bear mwwwaaaaahhhhhhhhhhhh...<br><br>I LOVE YOU SO MUCH YOU MEAN THE WORLD TO ME MY CHASMISH - From Rudu"],
-["2026-02-11","Promise Day 🤞","Pinky promise foreverrr 🤞...<br><br>I LOVE YOU SO MUCH YOU MEAN THE WORLD TO ME MY CHASMISH - From Rudu"],
+["2026-02-11","Promise Day 🤞","I Pinky promise to be with you in your ups and downs foreverrr and also to ragebait you forever hehhehe 🤞...<br><br>I LOVE YOU SO MUCH YOU MEAN THE WORLD TO ME MY CHASMISH - From Rudu"],
 ["2026-02-12","Hug Day 🤗","Ekdom joriye dhore chepe debo khub bhalo basi re toke ami🤗...<br><br>I LOVE YOU SO MUCH YOU MEAN THE WORLD TO ME MY CHASMISH - From Rudu"],
 ["2026-02-13","Kiss Day 😘","Muaaaahhh 😘 A million kisses chumu diye mukh bhore debo ekdom tomar ...<br><br>I LOVE YOU SO MUCH YOU MEAN THE WORLD TO ME MY CHASMISH - From Rudu"],
 ["2026-02-14","Valentine's Day ❤️","Happy Valentine's Dayyy ❤️ You are my everything...<br><br>I LOVE YOU SO MUCH YOU MEAN THE WORLD TO ME MY CHASMISH - From Rudu"]
