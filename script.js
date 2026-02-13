@@ -15,7 +15,7 @@ const letters=[
 ["2026-02-11","Promise Day 🤞","I Pinky promise to be with you in your ups and downs foreverrr and also to ragebait you forever hehhehe 🤞...<br><br>I LOVE YOU SO MUCH YOU MEAN THE WORLD TO ME MY CHASMISH - From Rudu"],
 ["2026-02-12","Hug Day 🤗","Ekdom joriye dhore chepe debo khub bhalo basi re toke ami🤗...<br><br>I LOVE YOU SO MUCH YOU MEAN THE WORLD TO ME MY CHASMISH - From Rudu"],
 ["2026-02-13","Kiss Day 😘","Muaaaahhh 😘 A million kisses chumu diye mukh bhore debo ekdom tomar ...<br><br>I LOVE YOU SO MUCH YOU MEAN THE WORLD TO ME MY CHASMISH - From Rudu"],
-["2026-02-14","Valentine's Day ❤️","Happy Valentine's Dayyy ❤️ You are my everything...<br><br>I LOVE YOU SO MUCH YOU MEAN THE WORLD TO ME MY CHASMISH - From Rudu"]
+["2026-02-14","Valentine's Day ❤️","Happy Valentine's Dayyy MY LOVE, MY DARLING, MY CHASMISH, MY BABY❤️ You are my everything...<br><br>I LOVE YOU SO MUCH YOU MEAN THE WORLD TO ME MY CHASMISH - From Rudu"]
 ];
 
 function loadLetters(){
